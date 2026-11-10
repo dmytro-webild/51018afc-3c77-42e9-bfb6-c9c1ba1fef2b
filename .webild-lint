@@ -1,0 +1,10 @@
+src/components/Layout.tsx
+src/components/sections/about/AboutIntroStatement.tsx
+src/components/sections/contact/ContactColumnWindow.tsx
+src/components/sections/faq/FaqGlyphRows.tsx
+src/components/sections/features/ServicesIndustryTiles.tsx
+src/components/sections/footer/FooterLimeWordmark.tsx
+src/components/sections/hero/HeroColumnGrid.tsx
+src/components/sections/pricing/PricingGlyphPlans.tsx
+src/components/sections/testimonial/TestimonialDeepCoverflow.tsx
+src/pages/HomePage.tsx
